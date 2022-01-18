@@ -1,2 +1,2 @@
 # ctf-blog
-The notes of ctf
+The note about ctf
